@@ -2,6 +2,8 @@ import en_US from './en-US.json' assert { type: 'json' };
 import nl_NL from './nl.json' assert { type: 'json' };
 import de from './de.json' assert { type: 'json' };
 import es from './es.json' assert { type: 'json' };
+import zh-CN from './zh-CN.json' assert { type: 'json' };
+import zh-TW from './zh-TW' assert { type: 'json' };
 import type { LangMap } from '../types/types.js';
 
 export type LangKey = keyof typeof en_US;

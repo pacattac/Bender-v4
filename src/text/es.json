@@ -1,5 +1,5 @@
 {
-	"----------- Generic command errors -----------":"--",
+	"----------- Generic command errors -----------":"",
 	
 	"GUILD_ONLY":"`/{{command}}` solo está disponible en servidores, no en mensajes directos.",
 	"COMMAND_UNAUTHORIZED":"No estás autorizado a utilizar este comando.",
@@ -30,7 +30,7 @@
 	
 	
 	
-	"----------- Generic settings messages -----------":"--",
+	"----------- Generic settings messages -----------":"",
 	
 	"SETTING_UPDATE_SUCCESS":"Actualizado {{setting}}.",
 	"SETTING_UPDATE_SUCCESS_VALUE":"Actualizado {{setting}}: {{value}}",
@@ -55,7 +55,7 @@
 	
 	
 	
-	"----------- /ping -----------":"--",
+	"----------- /ping -----------":"",
 	
 	"PING_NAME":"silbido",
 	"PING_DESCRIPTION":"Pruebe la capacidad de respuesta del bot.",
@@ -64,7 +64,7 @@
 	
 	
 	
-	"----------- /help -----------":"--",
+	"----------- /help -----------":"",
 	
 	"HELP_NAME":"ayuda",
 	"HELP_DESCRIPTION":"Obtenga información sobre los comandos de Bender y cómo usarlos.",
@@ -84,21 +84,21 @@
 	
 	
 	
-	"----------- /dev -----------":"--",
+	"----------- /dev -----------":"",
 	
 	"DEV_NAME":"desarrollador",
 	"DEV_DESCRIPTION":"Cosas súper secretas para desarrolladores.",
 	
 	
 	
-	"----------- /text -----------":"--",
+	"----------- /text -----------":"",
 	
 	"TEXT_NAME":"texto",
 	"TEXT_DESCRIPTION":"Aplicar efectos al texto. Sólo admite caracteres en inglés (ASCII).",
 	
 	
 	
-	"----------- /convert-text -----------":"--",
+	"----------- /convert-text -----------":"",
 	
 	"CONVERT_TEXT_NAME":"convertir-texto",
 	"CONVERT_TEXT_DESCRIPTION":"Convierte texto entre formatos.",
@@ -133,12 +133,12 @@
 	
 	
 	
-	"----------- /info -----------":"--",
+	"----------- /info -----------":"",
 	
 	"INFO_NAME":"información",
 	"INFO_DESCRIPTION":"Muestra información sobre un usuario, rol, canal, invitación, emoji, banner o el servidor actual.",
 	
-	"------- /info user -------":"--",
+	"------- /info user -------":"",
 	
 	"USER_INFO_SUBCOMMAND":"usuario",
 	"USER_INFO_SUBCOMMAND_DESCRIPTION":"Mostrar información sobre un miembro o usuario del servidor.",
@@ -160,7 +160,7 @@
 	"USER_INFO_MEMBER_NUMBER":"Miembro #{{num}}",
 	"USER_INFO_NON_MEMBER":"*Este usuario no es miembro del servidor. No hay información adicional disponible.*",
 	
-	"------- /info emoji -------":"--",
+	"------- /info emoji -------":"",
 	
 	"EMOJI_INFO_SUBCOMMAND":"emojis",
 	"EMOJI_INFO_SUBCOMMAND_DESCRIPTION":"Mostrar información sobre un emoji.",
@@ -175,7 +175,7 @@
 	"EMOJI_INFO_ANIMATED":"{{nitroEmoji}} *Este emoji está animado y solo lo pueden utilizar usuarios con Nitro.*",
 	"EMOJI_INFO_LINK":"{{linkEmoji}} Ver emoji en el navegador",
 	
-	"------- /info channel -------":"--",
+	"------- /info channel -------":"",
 	
 	"CHANNEL_INFO_SUBCOMMAND":"canal",
 	"CHANNEL_INFO_SUBCOMMAND_DESCRIPTION":"Mostrar información sobre un canal.",
@@ -200,7 +200,7 @@
 	"CHANNEL_INFO_CATEGORY_EMPTY":"**Canales:** *(ninguno)*",
 	"CHANNEL_INFO_TRUNCATED":"*y {{count}} más...*",
 	
-	"------- /info banner -------":"--",
+	"------- /info banner -------":"",
 	
 	"BANNER_INFO_SUBCOMMAND":"bandera",
 	"BANNER_INFO_SUBCOMMAND_DESCRIPTION":"Mostrar el banner de un usuario o el banner del servidor.",
@@ -212,7 +212,7 @@
 	"BANNER_INFO_GUILD_NO_BANNER":"Este servidor no tiene banner.",
 	"BANNER_INFO_TITLE":"{{bannerEmoji}} Banner para **{{name}}** [[link]]({{bannerLink}})",
 	
-	"------- /info invite -------":"--",
+	"------- /info invite -------":"",
 	
 	"INVITE_INFO_SUBCOMMAND":"invitar",
 	"INVITE_INFO_SUBCOMMAND_DESCRIPTION":"Mostrar información sobre una invitación al servidor.",
@@ -229,7 +229,7 @@
 	"INVITE_INFO_MEMBERS":"Miembros",
 	"INVITE_INFO_MEMBER_PRESENCES":"{{onlineEmoji}} **{{online}}** en línea | 👥 **{{total}}** total",
 	
-	"------- /info server -------":"--",
+	"------- /info server -------":"",
 	
 	"SERVER_INFO_SUBCOMMAND":"servidor",
 	"SERVER_INFO_SUBCOMMAND_DESCRIPTION":"Mostrar información sobre el servidor actual.",
@@ -255,7 +255,7 @@
 	"SERVER_INFO_EMOJI_COUNT":"**{{count}}** emojis",
 	"SERVER_INFO_EMOJI_SINGLE":"**1** emojis",
 	
-	"------- /info role -------":"--",
+	"------- /info role -------":"",
 	
 	"ROLE_INFO_SUBCOMMAND":"role",
 	"ROLE_INFO_SUBCOMMAND_DESCRIPTION":"Mostrar información sobre un rol.",
@@ -276,7 +276,7 @@
 	"ROLE_INFO_NOT_MENTIONABLE":"*Solo se puede mencionar con la permanente \"Mencionar a todos\"*",
 	"ROLE_INFO_MANAGED":"*Gestionado por una integración (como Twitch)*",
 	
-	"------- /info avatar -------":"--",
+	"------- /info avatar -------":"",
 	
 	"AVATAR_INFO_SUBCOMMAND":"avatar",
 	"AVATAR_INFO_SUBCOMMAND_DESCRIPTION":"Muestra el avatar de un usuario o el icono del servidor.",
@@ -289,7 +289,7 @@
 	"AVATAR_INFO_USER_TITLE":"{{avatarEmoji}} Avatar para **{{name}}** [[link]]({{avatarLink}})",
 	"AVATAR_INFO_GUILD_TITLE":"{{avatarEmoji}} Icono para **{{name}}** [[enlace]]({{avatarLink}})",
 	
-	"------- /info bot -------":"--",
+	"------- /info bot -------":"",
 	
 	"BOT_INFO_SUBCOMMAND":"bot",
 	"BOT_INFO_SUBCOMMAND_DESCRIPTION":"Muestra información sobre Bender.",
@@ -313,7 +313,7 @@
 	"BOT_INFO_LINKS_TOS":"Términos de servicio",
 	"BOT_INFO_LINKS_GITHUB":"Código fuente",
 	
-	"------- /info char -------":"--",
+	"------- /info char -------":"",
 	
 	"CHAR_INFO_SUBCOMMAND":"carbonizarse",
 	"CHAR_INFO_SUBCOMMAND_DESCRIPTION":"Mostrar información sobre un carácter Unicode (texto o emojis).",
@@ -333,12 +333,12 @@
 	
 	
 	
-	"----------- /fun -----------":"--",
+	"----------- /fun -----------":"",
 	
 	"FUN_NAME":"divertido",
 	"FUN_DESCRIPTION":"Comandos para entretenimiento y aleatoriedad.",
 	
-	"------- /fun 8ball -------":"--",
+	"------- /fun 8ball -------":"",
 	
 	"FUN_8BALL_SUBCOMMAND":"bola 8",
 	"FUN_8BALL_SUBCOMMAND_DESCRIPTION":"Hazle a la mágica bola 8 las preguntas más difíciles de la vida.",
@@ -368,7 +368,7 @@
 		"Muy dudoso"
 	],
 	
-	"------- /fun coinflip -------":"--",
+	"------- /fun coinflip -------":"",
 	
 	"FUN_COIN_SUBCOMMAND":"lanzamiento de moneda",
 	"FUN_COIN_SUBCOMMAND_DESCRIPTION":"Deja que Bender decida tu destino lanzando monedas por ti. ⛀⛁⛃⛂",
@@ -387,7 +387,7 @@
 	"FUN_COIN_RESULT_HEADS":"El resultado general es: **¡Colas!**",
 	"FUN_COIN_RESULT_TAILS":"El resultado general es: **¡Cara!**",
 	
-	"------- /fun dice -------":"--",
+	"------- /fun dice -------":"",
 	
 	"FUN_DICE_SUBCOMMAND":"dado",
 	"FUN_DICE_SUBCOMMAND_DESCRIPTION":"¿No tienes dados? ¡Deja que Bender ruede por ti! ⚀ ⚁ ⚂ ⚃ ⚄ ⚅",
@@ -404,7 +404,7 @@
 	"FUN_DICE_DETAIL":"**{{num}}** se lanzó **{{count}}** veces.",
 	"FUN_DICE_TOTAL":"El total es: **{{sum}}**.",
 	
-	"------- /fun rps -------":"--",
+	"------- /fun rps -------":"",
 	
 	"FUN_RPS_SUBCOMMAND":"rps",
 	"FUN_RPS_SUBCOMMAND_DESCRIPTION":"Juega piedra, papel o tijera con Bender u otro usuario.",
@@ -430,7 +430,7 @@
 	"FUN_RPS_LOSS":"Tú ganas esta ronda. *Equipado.*",
 	"FUN_RPS_RESULT":"Piedra, papel y tijera: **¡{{winner}} ganó!**\n({{winner}} eligió {{wChoice}} y {{loser}} eligió {{lChoice}}.)",
 	
-	"------- /fun choose -------":"--",
+	"------- /fun choose -------":"",
 	
 	"FUN_CHOOSE_SUBCOMMAND":"elegir",
 	"FUN_CHOOSE_SUBCOMMAND_DESCRIPTION":"Elige algo al azar.",
@@ -441,7 +441,7 @@
 	"FUN_CHOOSE_ONE_CHOICE_HINT":"Utilice un `|` para separar las opciones.",
 	"FUN_CHOOSE_RESULT":"Elijo {{choice}}",
 	
-	"------- /fun random -------":"--",
+	"------- /fun random -------":"",
 	
 	"FUN_RANDOM_SUBCOMMAND":"aleatorio",
 	"FUN_RANDOM_SUBCOMMAND_DESCRIPTION":"Elige algo al azar.",
@@ -454,7 +454,7 @@
 	
 	"FUN_RANDOM_RESULT":"Número aleatorio entre **{{min}}** y **{{max}}** => `{{num}}`",
 	
-	"------- /fun hack -------":"--",
+	"------- /fun hack -------":"",
 	
 	"FUN_HACK_SUBCOMMAND":"cortar a tajos",
 	"FUN_HACK_SUBCOMMAND_DESCRIPTION":"Hackea a un usuario y roba su token de Discord. [DESCARGO DE RESPONSABILIDAD: ¡Todos los tokens son falsos!]",
@@ -464,7 +464,7 @@
 	"FUN_HACK_PROGRESS":"Hackear {{user}}.... {{progress}}",
 	"FUN_HACK_COMPLETE":"¡Hackeado {{user}}! {{progress}}\nSu token es `{{token}}`",
 	
-	"------- /fun tictactoe -------":"--",
+	"------- /fun tictactoe -------":"",
 	
 	"FUN_TTT_SUBCOMMAND":"tictacto",
 	"FUN_TTT_SUBCOMMAND_DESCRIPTION":"Juega al tres en raya contra Bender u otro usuario.",
@@ -484,7 +484,7 @@
 	"FUN_TTT_INTERACTION_UNINVITED":"Este no es tu juego de tres en raya. Bátelo, bolsa de carne.",
 	"FUN_TTT_OUT_OF_TURN":"No es tu turno, ten paciencia. O simplemente luchar contra ellos 1v1",
 	
-	"------- /fun blackjack -------":"--",
+	"------- /fun blackjack -------":"",
 	
 	"FUN_BJ_SUBCOMMAND":"veintiuna",
 	"FUN_BJ_SUBCOMMAND_DESCRIPTION":"Voy a hacer mi propio casino. Con veintiuna. Y prostitutas.",
@@ -523,12 +523,12 @@
 	
 	
 	
-	"------- /stats -------":"--",
+	"------- /stats -------":"",
 	
 	"STATS_NAME":"estadísticas",
 	"STATS_DESCRIPTION":"Muestra información más detallada sobre los miembros.",
 	
-	"------- /stats inactive -------":"--",
+	"------- /stats inactive -------":"",
 	
 	"STATS_SUBCOMMAND_INACTIVE":"inactivo",
 	"STATS_SUBCOMMAND_INACTIVE_DESCRIPTION":"Cuenta miembros inactivos, con un filtro de rol opcional.",
@@ -544,7 +544,7 @@
 	"STATS_INACTIVE_INCLUDE_ROLES":"*Para incluir miembros con ciertos roles, use el selector a continuación:*",
 	"STATS_INACTIVE_ROLES_INCLUDED":"*Incluyendo roles:* {{roles}}",
 	
-	"------- /stats playing -------":"--",
+	"------- /stats playing -------":"",
 	
 	"STATS_SUBCOMMAND_PLAYING":"jugando",
 	"STATS_SUBCOMMAND_PLAYING_DESCRIPTION":"Cuenta los miembros que juegan un determinado juego.",
@@ -558,7 +558,7 @@
 	"STATS_PLAYING_RESULT_GENERIC":"**{{playing}}** los miembros están jugando.",
 	"STATS_PLAYING_RESULT_GENERIC_SINGLE":"**1** miembro está jugando.",
 	"STATS_PLAYING_RESULT_GENERIC_EMPTY":"No se pudo encontrar ningún miembro jugando a ningún juego.",
-	"----------- /restrict-emoji -----------":"--",
+	"----------- /restrict-emoji -----------":"",
 	"REM_NAME":"restringir-emoji",
 	"REM_DESCRIPTION":"Establezca o vea restricciones sobre qué miembros pueden usar un emoji.",
 	"REM_SUBCOMMAND_VIEW":"vista",
@@ -577,7 +577,7 @@
 	"REM_SET_ROLES":"Establezca restricciones para {{emoji}}: lo pueden utilizar miembros con los siguientes roles: {{roles}}",
 	"REM_SET_ROLES_UNNECESSARY":"No establecí restricciones para {{emoji}}; ya está configurado para los mismos roles que usted eligió.",
 	"REM_EDIT_FAILED":"No se pudieron editar las restricciones para {{emoji}}.",
-	"----------- /min-age -----------":"--",
+	"----------- /min-age -----------":"",
 	"MINAGE_NAME":"edad mínima",
 	"MINAGE_DESCRIPTION":"Establezca o vea la edad mínima de la cuenta para el servidor.",
 	"MINAGE_DETAILS":"Configurar una edad mínima de cuenta puede evitar que spammers, invasores y trolls se unan a su servidor. Para comenzar, establezca la edad mínima con {{cmdSet}}, luego configure {{cmdAction}} y {{cmdMessage}} si lo desea, luego use {{cmdEnable}} para habilitarlo. Si necesita desactivarlo, utilice {{cmdDisable}}.",
@@ -620,7 +620,7 @@
 	"MINAGE_DEFAULT_MESSAGE":"Este servidor requiere que su cuenta se haya creado al menos hace {{duration}}. Puede volver a unirse en {{timestamp}} o más tarde ({{timestampRelative}}.)",
 	"MINAGE_ENABLED_SET_INVALID":"Establezca una duración (a través de {{commandLink}}) antes de habilitar la edad mínima de la cuenta.",
 	"MINAGE_DURATION_SET_INVALID":"La edad mínima de la cuenta debe estar entre {{minimum}} y {{maximum}}.",
-	"----------- /member-msg -----------":"--",
+	"----------- /member-msg -----------":"",
 	"MEMBER_MSG_NAME":"mensaje-miembro",
 	"MEMBER_MSG_DESCRIPTION":"Configure mensajes para miembros, como mensajes de bienvenida/salida y mensajes directos de prohibición/expulsión.",
 	"MEMBER_MSG_SUBCOMMAND_VIEW":"vista",
@@ -665,7 +665,7 @@
 	"MEMBER_MSG_SETTING_JOIN_DM":"unirse DM",
 	"MEMBER_MSG_SETTING_BAN_DM":"en DM",
 	"MEMBER_MSG_SETTING_KICK_DM":"patear DM",
-	"----------- Presences -----------":"--",
+	"----------- Presences -----------":"",
 	"STATUS_ONLINE":"En línea",
 	"STATUS_IDLE":"AFK",
 	"STATUS_DND":"No molestar",
@@ -674,9 +674,9 @@
 	"PRESENCE_TYPE_STREAMING":"Transmisión",
 	"PRESENCE_TYPE_LISTENING":"Escuchar",
 	"PRESENCE_TYPE_WATCHING":"Mirando",
-	"PRESENCE_TYPE_CUSTOM":"--",
+	"PRESENCE_TYPE_CUSTOM":"",
 	"PRESENCE_TYPE_COMPETING":"Competir en",
-	"----------- Date/time formatting -----------":"--",
+	"----------- Date/time formatting -----------":"",
 	"DURATION_MILLISECOND":"1 milisegundo",
 	"DURATION_MILLISECONDS":"{{number}} milisegundos",
 	"DURATION_SECOND":"1 segundo",
@@ -693,11 +693,11 @@
 	"DURATION_MONTHS":"{{number}} meses",
 	"DURATION_YEAR":"1 año",
 	"DURATION_YEARS":"{{number}} años",
-	"----------- Miscellaneous -----------":"--",
+	"----------- Miscellaneous -----------":"",
 	"ORDINAL_NUMBER_FORMAT":"{{number}}ésimo",
 	"NEW_ACCOUNT_NOTICE":"**Cuenta nueva** - Creada en {{timestamp}}",
 	"NONE":"*Ninguno*",
-	"----------- Discord permissions -----------":"--",
+	"----------- Discord permissions -----------":"",
 	"PERMISSION_CREATE_INSTANT_INVITE":"Crear invitación",
 	"PERMISSION_KICK_MEMBERS":"Miembros de patada",
 	"PERMISSION_BAN_MEMBERS":"Prohibir miembros",
